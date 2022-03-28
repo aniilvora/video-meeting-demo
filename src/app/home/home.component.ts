@@ -36,7 +36,7 @@ export class HomeComponent implements OnInit {
       apiKey: apiKey,
 
       containerId: null,
-      redirectOnLeave: 'https://www.videosdk.live/',
+      redirectOnLeave: 'https://aniilvora.github.io/video-meeting-demo/home',
 
       micEnabled: true,
       webcamEnabled: true,
