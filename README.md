@@ -106,3 +106,6 @@ Integration (run back-end & front-end on same server/port)
 > [How to integrate Angular with Node Restful Services](https://bezkoder.com/integrate-angular-12-node-js/)
 
 > [How to Integrate Angular with Spring Boot Rest API](https://bezkoder.com/integrate-angular-12-spring-boot/)
+
+## ng build --prod --base-href "https://aniilvora.github.io/video-meeting-demo/"
+## ngh --dir dist/Angular13JwtAuth 
